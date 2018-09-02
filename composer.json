@@ -1,0 +1,12 @@
+{
+    "name": "chirag/testpackage",
+    "description": "test package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "chirag chaudhari",
+            "email": "chiragchaudhari97@gmail.com"
+        }
+    ],
+    "require": {}
+}
